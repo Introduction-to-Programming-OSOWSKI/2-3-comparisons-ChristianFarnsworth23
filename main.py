@@ -20,7 +20,7 @@ def greaterOrEqual(x,y):
     else:
         return False
 
-def lessOeEqual(x,y):
+def lessOrEqual(x,y):
     if x <= y:
         return True
     else:
